@@ -1,1 +1,1 @@
-print("Hi everyone my name is Ritesh Prasad and i am a good boy and handsome")
+print("Hi everyone my name is Ritesh Prasad ")
